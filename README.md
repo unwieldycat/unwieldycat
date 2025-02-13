@@ -1,9 +1,7 @@
 # Hello, I'm Alex!
 I'm a hobbyist programmer and student of WPI (class of 2028). Sometimes I make things, and sometimes I maintain those things! 😁
 
-- 🎄 [I'm participating in Advent of Code!](https://github.com/unwieldycat/aoc-24)
-- 🧑‍💻 I'm currently building a 1lb combat robot and programming for WPI VEXU
-- 🎓 I'm working toward a degree in computer science
+- 🎓 I'm working toward a degree in Computer Science
 - 🤖 I previously competed in the HS VEX Robotics Competition from 2021 to 2024
 - 🗓️ I've been programming since 2020
 
